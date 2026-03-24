@@ -45,23 +45,22 @@ It reflects practical skills required for **Data Analyst and Data Engineer roles
 
 ## 📁 Repository Structure
 
+```text
 sql-mastery/
 │
-├── datasets/ # Raw datasets used for analysis
-│ ├── calendar.csv
-│ ├── doctors.csv
-│ ├── patients.csv
-│ ├── shopping_behavior_updated.csv
+├── datasets/
+│   ├── calendar.csv
+│   ├── doctors.csv
+│   ├── patients.csv
+│   ├── shopping_behavior_updated.csv
 │
-├── scripts/ # SQL scripts organized by concepts
-│ ├── joins.sql
-│ ├── aggregations.sql
-│ ├── window_functions.sql
-│ ├── subqueries.sql
-│ ├── case_studies.sql
-
-
----
+├── scripts/
+│   ├── joins.sql
+│   ├── aggregations.sql
+│   ├── window_functions.sql
+│   ├── subqueries.sql
+│   ├── case_studies.sql
+```
 
 ## 📊 Real-World Use Cases Covered
 
