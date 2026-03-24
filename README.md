@@ -22,6 +22,13 @@ This repository showcases hands-on SQL practice using real-world-style datasets.
 
 ---
 
+## 📁 Repository Structure
+
+SQL-Notes/
+│
+├── datasets/ # CSV files used for practice
+├── scripts/ # SQL query files
+└── README.md # Project documentation
 
 ---
 
